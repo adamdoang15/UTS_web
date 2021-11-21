@@ -1,0 +1,14 @@
+/* Navbar */
+.navbar-brand {
+    font-family: viga;
+    font-size: 35px;
+
+}
+.nav-link {
+    text-transform: uppercase;
+}
+.nav-link:hover {
+    border-bottom: 3px solid green;
+    padding-bottom: 5px;
+}
+
